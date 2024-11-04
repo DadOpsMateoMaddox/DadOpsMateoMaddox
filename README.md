@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/MaddoxsDad">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/kevin-maddox-123456789/">Peraton Apprentice</a></h1>
 
-<!--
-**MaddoxsDad/MaddoxsDad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- **Data Structures and Algorithms**
+  - [Red-Black Tree Implementation](https://github.com/MaddoxsDad/RedBlack)
+  - [Bloom Filter Example](https://github.com/MaddoxsDad/BloomFilter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cybersecurity Tools**
+  - [Offline NIST CVSS Calculator](https://github.com/MaddoxsDad/Offline-NIST-CVSS-Calculator)
+
+- **Academic Projects**
+  - [CPSC318 Lab 6](https://github.com/MaddoxsDad/CPSC318-Lab6)
+  - [Assignment 4](https://github.com/MaddoxsDad/assignment4)
+  - [Kevs240-Repo](https://github.com/MaddoxsDad/Kevs240-Repo)
+
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/kevin-maddox-123456789/
