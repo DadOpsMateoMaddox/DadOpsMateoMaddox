@@ -18,4 +18,5 @@
 
 [<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/kevin-maddox-123456789/
+[linkedin]: www.linkedin.com/in/kevinlandrycyber
+
