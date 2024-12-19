@@ -13,6 +13,7 @@
   - [CPSC318 Lab 6](https://github.com/MaddoxsDad/CPSC318-Lab6)
   - [Assignment 4](https://github.com/MaddoxsDad/assignment4)
   - [Kevs240-Repo](https://github.com/MaddoxsDad/Kevs240-Repo)
+  - The Power and Purpose of Password Cracking Tools
 
 <h2>🤳 Connect with me:</h2>
 
