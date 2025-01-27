@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/MaddoxsDad">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/kevinlandrycyber">Peraton Apprentice</a></h1>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/MaddoxsDad">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/kevinlandrycyber">George Mason Graduate student April 2025🚀 </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
