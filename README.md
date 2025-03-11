@@ -17,7 +17,7 @@
   - [Python_EC2](https://github.com/MaddoxsDad/Python_EC2)
 
 
--**Independent Research**
+<h2>Independent Research</h2>
 - [Janus_Deep_Seek_Prompt Manipulation](https://github.com/MaddoxsDad/Janus_Deep_Seek_Shawshank)
 <h2>🤳 Connect with me:</h2>
 
