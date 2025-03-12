@@ -20,7 +20,7 @@
 🚀 Real-World Applications:
 🔹 Used in database indexing (e.g., TreeMap in Java, STL map in C++).
 🔹 Applied in memory management (Linux kernel uses Red-Black Trees for scheduler queues).
-🔹 Essential for high-performance search engines and routing tables.**
+🔹 Essential for high-performance search engines and routing tables./**
   - [Bloom Filter Example](https://github.com/MaddoxsDad/BloomFilter)
 
 - **Cybersecurity Tools**
