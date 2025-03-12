@@ -4,7 +4,7 @@
 
 - **Data Structures and Algorithms**
   - [Red-Black Tree Implementation](https://github.com/MaddoxsDad/RedBlack)
-  - **This project implements a Red-Black Tree (RBT), a self-balancing binary search tree that ensures efficient data retrieval, insertion, and deletion operations. The Red-Black Tree maintains balance by enforcing specific rules on node colors and rotations, leading to an optimal time complexity of O(log n) for common operations.
+  - */This project implements a Red-Black Tree (RBT), a self-balancing binary search tree that ensures efficient data retrieval, insertion, and deletion operations. The Red-Black Tree maintains balance by enforcing specific rules on node colors and rotations, leading to an optimal time complexity of O(log n) for common operations.
 
 🔹 Features:
 ✔ Insertion & Deletion Operations – Maintains tree balance with rotations and color flipping.
@@ -20,7 +20,7 @@
 🚀 Real-World Applications:
 🔹 Used in database indexing (e.g., TreeMap in Java, STL map in C++).
 🔹 Applied in memory management (Linux kernel uses Red-Black Trees for scheduler queues).
-🔹 Essential for high-performance search engines and routing tables./**
+🔹 Essential for high-performance search engines and routing tables.\*
   - [Bloom Filter Example](https://github.com/MaddoxsDad/BloomFilter)
 
 - **Cybersecurity Tools**
