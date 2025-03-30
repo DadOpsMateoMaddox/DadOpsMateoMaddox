@@ -18,7 +18,7 @@
 ✅ Memory Management – Efficiently allocates and deallocates nodes.
 ✅ Sorting & Searching Efficiency – Used in databases, networking, and compilers.
 
-** 🧑🏻‍💻![LinuxLinuxDeveloperGIF](https://github.com/user-attachments/assets/51c5f120-5079-45f8-bce1-4e35563b1034)
+** 🧑🏻‍💻
 Real-World Applications:**
 🔹 Used in database indexing (e.g., TreeMap in Java, STL map in C++).
 🔹 Applied in memory management (Linux kernel uses Red-Black Trees for scheduler queues).
