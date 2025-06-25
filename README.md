@@ -1,6 +1,11 @@
 # Hi, I'm Kevin Landry
+I'm a veteran looking to get my foot in the door of cyber. In my spare time I like to do threat huntingm adverserial emulations, enrich IoC with my various Honeypot projects, and train AI oto be used as a tool to help harden vulnerable networks and systems. I've been in the INFOSEC game since 2005, I'm a team player, a leader, and a father. I hope you find something useful in my repo's! If you do, please make a pull request🫡 
 
-[Cybersecurity Professional](https://github.com/MaddoxsDad) | [George Mason University Graduate Student (April 2025)](https://www.linkedin.com/in/kevinlandrycyber)
+I put **allot of work** into these projects, although I have many more that I don't have on Github🥷🏻
+**Enjoy**, see you in the logs!
+
+
+[Cybersecurity Professional](https://github.com/MaddoxsDad) | [George Mason University Graduate Student (April 2025)](https://www.linkedin.com/in/kevinlandrycyber) **2nd Place USCC CTF Participant**
 
 ---
 ##  ☠️ Cyber Projects☠️
