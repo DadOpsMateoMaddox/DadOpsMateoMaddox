@@ -1,5 +1,5 @@
 # Hi, I'm Kevin Landry
-I'm a veteran looking to get my foot in the door of cyber. In my spare time I like to do threat huntingm adverserial emulations, enrich IoC with my various Honeypot projects, and train AI oto be used as a tool to help harden vulnerable networks and systems. I've been in the INFOSEC game since 2005, I'm a team player, a leader, and a father. I hope you find something useful in my repo's! If you do, please make a pull request🫡 
+I'm a veteran looking to get my foot in the door of cyber and or software development. In my spare time I like to do threat hunting, adverserial emulations, enrich IoC with my various Honeypot projects, and train AI oto be used as a tool to help harden vulnerable networks and systems. I've been in the INFOSEC game since 2005, I'm a team player, a leader, and a father. I hope you find something useful in my repo's! If you do, please make a pull request🫡 
 
 I put **allot of work** into these projects, although I have many more that I don't have on Github🥷🏻
 **Enjoy**, see you in the logs!
@@ -29,13 +29,13 @@ I put **allot of work** into these projects, although I have many more that I do
 
 ## 👨‍💻 Software Development Projects
 
-- **Data Structures and Algorithms**
+- **Data Structures and Algorithms** **Java**
   - [Red-Black Tree Implementation](https://github.com/MaddoxsDad/RedBlack)  
     *Self-balancing binary search tree ensuring efficient O(log n) operations for insertion, deletion, and search.*
   - [Bloom Filter Example](https://github.com/MaddoxsDad/BloomFilter)  
     *Demonstration of probabilistic data structures for high-speed membership queries.*
 
-- **Cybersecurity Tools**
+- **Cybersecurity Tools** **Python**
   - [Offline NIST CVSS Calculator](https://github.com/MaddoxsDad/Offline-NIST-CVSS-Calculator)  
     *Offline Python-based calculator aligning with NIST CVSS v3.1 standards for vulnerability scoring.*
 
