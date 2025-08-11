@@ -1,66 +1,40 @@
-# Hi, I'm Kevin Landry
-I'm a veteran looking to get my foot in the door of cyber and or software development. In my spare time I like to do threat hunting, adverserial emulations, enrich IoC with my various Honeypot projects, and train AI oto be used as a tool to help harden vulnerable networks and systems. I've been in the INFOSEC game since 2005, I'm a team player, a leader, and a father. I hope you find something useful in my repo's! If you do, please make a pull request🫡 
+# Hi, I'm Kevin Landry 👋
 
-I put **allot of work** into these projects, although I have many more that I don't have on Github🥷🏻
-**Enjoy**, see you in the logs!
+## Coast Guard Service & Achievements
 
+Before diving into cybersecurity, I served nearly a decade in the U.S. Coast Guard as an Operations Specialist (OS). During that time I:
 
-[Cybersecurity Professional](https://github.com/MaddoxsDad) | [George Mason University Graduate Student (April 2025)](https://www.linkedin.com/in/kevinlandrycyber) **2nd Place USCC CTF Participant**
+- **USCGC DALLAS (WHEC-716)**: Served as communications petty officer and EKMS manager. Oversaw shipboard communications, training and key management. Coordinated port visits to more than 15 countries and supported humanitarian relief missions like **Operation Noble Delivery** to the Republic of Georgia.
+- **Sector San Juan (Deepwater operations)**: Base officer of the day and assistant patrol boat manager. Helped apprehend human traffickers during **Operation Monkey Wrench II**, coordinated law enforcement and firefighting training, and assisted FEMA and the Mississippi National Guard during Hurricane Katrina recovery efforts.
+- **District 17 Communications Center**: Communications watch officer and watch supervisor. Participated in **Unified Defense Exercise 04** (the first post-9/11 interagency terrorism exercise in Alaska), advanced quickly through the OS ranks, and ensured around-the-clock communications for search and rescue missions.
 
----
-##  ☠️ Cyber Projects☠️
-## 🛡️ Honeypot and Threat Intelligence Operations
+Over my Coast Guard career I earned multiple commendations and awards, including the **Meritorious Team Commendation** (with a gold star), **Meritorious Unit Commendation**, **Presidential Unit Citation**, **Commandant’s Letter of Commendation**, the **Coast Guard “E” Ribbon**, **Achievement Medal**, **Good Conduct medals**, **Sea Service** and **Special Operations** ribbons, **Rifle** and **Pistol Marksmanship** ribbons, the **Humanitarian Service Medal**, **Global War on Terrorism Expeditionary** and **Service Medals**, and a **Navy Meritorious Unit Commendation**【141425348955542†L143-L150】【430154381106141†L167-L174】.
 
-- **Live Attack Honeypot Deployment** (Currently Active)
-  - Built and tuned Cowrie honeypots in DigitalOcean environments.
-  - Captures SSH/Telnet brute force attacks, malware payloads, and persistence attempts.
-  - Integrated with:
-    - **SHODAN API** for real-time inbound threat telemetry.
-    - **VirusTotal API** for automated malware sample enrichment and threat attribution.
-  - Logs, artifacts, and attacker TTPs (Tactics, Techniques, Procedures) are analyzed and archived.
+I’m a Coast Guard veteran and M.S. Cybersecurity student at Syracuse University. I build open-source honeypots (HoneyBomb) and Python threat-intelligence tools, and I’m passionate about threat hunting, adversarial emulation, and modern cyber defense. With over 20 years in INFOSEC, I love exploring new tech, collaborating with others, and helping secure systems. Thanks for stopping by!
 
-- **Real-World Outcomes**
-  - Threat actor tracking and behavioral profiling.
-  - Payload isolation and secure analysis workflows.
-  - Hardened honeypot systems to mislead, trap, and frustrate malicious operators.
+## Cybersecurity Projects
 
-[Project Honeypot Repository](https://github.com/MaddoxsDad/Honeypot)
-[Associated log to pcap converter](https://github.com/MaddoxsDad/log2pcap)
+### Honeypots & Threat Intelligence
 
-## 👨‍💻 Software Development Projects
+* **HONEYBOMBCERBERUS** – [Honeybombcerberus](https://github.com/DadOpsMateoMaddox/HONEYBOMBCERBERUS). Next-generation honeypot integrating AI GuardDog, SHODAN, VirusTotal and custom TTP analytics. Collects attacker actions, malware samples, and logs for analysis.
+* **Corie Death Pot** – [Corie Death Pot](https://github.com/DadOpsMateoMaddox/Corie_Death_Pot). CLT Cowrie honeypot template with tripwires, SHODAN monitoring, threat enrichment, and step-by-step deployment instructions.
+* **Honeypot** – [Honeypot](https://github.com/DadOpsMateoMaddox/honeypot). Lightweight honeypot that monitors network ports and logs suspicious activities. Configurable for research and educational use.
+* **CowrieGPT-Access** – [CowrieGPT-Access](https://github.com/DadOpsMateoMaddox/CowrieGPT-Access). Scripts to integrate ChatGPT responses into Cowrie honeypot and analyze attacker dialogues.
 
-- **Data Structures and Algorithms** **Java**
-  - [Red-Black Tree Implementation](https://github.com/MaddoxsDad/RedBlack)  
-    *Self-balancing binary search tree ensuring efficient O(log n) operations for insertion, deletion, and search.*
-  - [Bloom Filter Example](https://github.com/MaddoxsDad/BloomFilter)  
-    *Demonstration of probabilistic data structures for high-speed membership queries.*
+### Threat Analysis & Scanning
 
-- **Cybersecurity Tools** **Python**
-  - [Offline NIST CVSS Calculator](https://github.com/MaddoxsDad/Offline-NIST-CVSS-Calculator)  
-    *Offline Python-based calculator aligning with NIST CVSS v3.1 standards for vulnerability scoring.*
+* **MultiThreatScanner** – [MultiThreatScanner](https://github.com/DadOpsMateoMaddox/MultiThreatScanner). Python tool to scan URLs, files, and IPs across multiple threat feeds (e.g., VirusTotal, AlienVault OTX). Generates unified threat reports and risk scores.
+* **Offline CVSS Calculators** – [2025 Offline CVSS Calculator](https://github.com/DadOpsMateoMaddox/2025-Offline-CVSS-Calculator-Optional-OpenAI-Integration) and [Offline-NIST-CVSS-Calculator](https://github.com/DadOpsMateoMaddox/Offline-NIST-CVSS-Calculator). Tools for computing CVSS v3.x scores offline, with optional OpenAI integration for narrative recommendations.
+* **Security Notebook** – [Security Notebook](https://github.com/DadOpsMateoMaddox/Security-Notebook) and [Security-](https://github.com/DadOpsMateoMaddox/Security-). Jupyter notebooks covering common penetration testing tasks, network forensics, and malware analysis.
 
-- **Academic & Coursework Projects**
-  - [Lamp Stack Wordpress Automation](https://github.com/MaddoxsDad/CPSC318-Lab6)
-  - [Assignment 4 - Systems Programming](https://github.com/MaddoxsDad/assignment4)
-  - [Intro to Computer Science Repository](https://github.com/MaddoxsDad/Kevs240-Repo)
-  - [Python AWS EC2 Automation](https://github.com/MaddoxsDad/Python_EC2)
+### Data Structures, Algorithms & Coursework
 
----
+* **RedBlack** – [RedBlack](https://github.com/DadOpsMateoMaddox/RedBlack). Implementation of a Red-Black tree with insertion, deletion and traversal algorithms in Java.
+* **BloomFilter** – [BloomFilter](https://github.com/DadOpsMateoMaddox/BloomFilter). Example of a Bloom filter data structure in Python, including unit tests and performance evaluation.
+* **Assignments & Labs** – [assignment4](https://github.com/DadOpsMateoMaddox/assignment4), [CPSC318-Lab6](https://github.com/DadOpsMateoMaddox/CPSC318-Lab6), [AIT512](https://github.com/DadOpsMateoMaddox/AIT512), and other coursework repositories demonstrate my experience in algorithms, data structures and systems programming.
 
+## Get In Touch
 
----
-
-## 📚 Independent Research
-
-- [Janus Deep Seek - Prompt Injection Vulnerability Analysis](https://github.com/MaddoxsDad/Janus_Deep_Seek_Shawshank)  
-  *Research into LLM prompt manipulation techniques targeting generative AI systems.*
-
----
-
-## 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/kevinlandrycyber)
-
----
-
-> "Building traps that teach attackers friction, confusion, and regret — while sharpening my own blade every day."
+- **LinkedIn**: [linkedin.com/in/kevinlandry](https://www.linkedin.com/in/kevinlandry)
+- **Blog**: [My Dev Blog](https://www.automateyourlife.blog)
+- **GitHub Stats**: [Profile Stats](https://github.com/anuraghazra/github-readme-stats)
