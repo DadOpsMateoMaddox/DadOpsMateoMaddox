@@ -3,16 +3,16 @@
 ## Coast Guard Service & Achievements
 
 Before diving into cybersecurity, I served nearly a decade in the U.S. Coast Guard as an Operations Specialist (OS) (But enlisted as a Telecommunications Specialist. During that time I:
-
--**Became a Plankowner of the Department of Homeland Security meaning I was among the first 80,000 or so to be placed in the Department of Homeland Security  
-- **USCGC DALLAS (WHEC-716)**: Served as communications petty officer and EKMS manager. Oversaw shipboard communications, training and key management. Coordinated port visits to more than 15 countries and supported humanitarian relief missions like **Operation Noble Delivery** to the Republic of Georgia.
+- **District 17 Communications Center**: Communications watch officer and watch supervisor. Participated in **Unified Defense Exercise 04** (the first post-9/11 interagency terrorism exercise in Alaska), advanced quickly through the OS ranks,E-5 at 19, E-6 at 21 and ensured around-the-clock communications for search and rescue missions.
 
 - **USCGC Aquidneck (WPB-1309)**: Proudly volunteered to deploy to Iraq October 2002 as Operation Specialist in charge and AOPS of the relief crew for all 4 patrol boats in the AOR but Aquidneck was my main. Conducted Anti-Terrorism-Force-Protection of the A-Bot and K-Bot terminals against Vehicle Born Improvised Explosive Devices )a.k.a. suicide bombers trying to un-alive themselves by blowing up both of the largest offshore oil terminals in the worl)d. Rest in Peace [DC3 Nathan Brukentall](https://en.wikipedia.org/wiki/Nathan_Bruckenthal)
+
+- **Became a Plankowner of the Department of Homeland Security** meaning I was among the first 80,000 or so to be placed in the Department of Homeland Security  
+- **USCGC DALLAS (WHEC-716)**: Served as communications petty officer and EKMS manager. Oversaw shipboard communications, training and key management. Coordinated port visits to more than 15 countries and supported humanitarian relief missions like **Operation Noble Delivery** to the Republic of Georgia.
 
 - **Returned in One Piece**: Returned to the Command Center to finish out my tour before leaving for the polar opposite assignment and geographic area,
   
 - **Sector San Juan (Deepwater operations)**: Base officer of the day and assistant patrol boat manager. Helped apprehend human traffickers during **Operation Monkey Wrench II**, coordinated law enforcement and firefighting training, and assisted FEMA and the Mississippi National Guard during Hurricane Katrina recovery efforts.
-- **District 17 Communications Center**: Communications watch officer and watch supervisor. Participated in **Unified Defense Exercise 04** (the first post-9/11 interagency terrorism exercise in Alaska), advanced quickly through the OS ranks, and ensured around-the-clock communications for search and rescue missions.
 
 Over my Coast Guard career I earned multiple commendations and awards, including the  **Achievement Medal with "O" Operational Designator**, **Meritorious Team Commendation** (with a gold star), **Meritorious Unit Commendation**, **Presidential Unit Citation**, **Commandant’s Letter of Commendation**, the **Coast Guard “E” Ribbon**,, **Hurricane Katrina Award** **Good Conduct medals**, **Sea Service** and **Special Operations** ribbons, **Rifle** and **Pistol Marksmanship** ribbons, the **Humanitarian Service Medal**, **Global War on Terrorism Expeditionary** and **Service Medals**, and a **Navy Meritorious Unit Commendation**.
 
@@ -43,6 +43,6 @@ I’m passionate about my family, animals, threat hunting, incident response, vu
 
 ## Get In Touch
 
-- **LinkedIn**: [linkedin.com/in/kevinlandry](https://www.linkedin.com/in/kevinlandry)
+- **LinkedIn**: [linkedin.com/in/kevinlandry](https://www.linkedin.com/in/kevinlandrycyber)
 - **Blog**: [My Dev Blog](https://www.automateyourlife.blog)
 - **GitHub Stats**: [Profile Stats](https://github.com/anuraghazra/github-readme-stats) (don't laugh, I'm cyber not software, although it feels reversed at the moment).
