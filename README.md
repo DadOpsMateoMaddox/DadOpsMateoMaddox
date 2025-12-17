@@ -1,53 +1,223 @@
-# Hi, I'm Kevin Landry 🤘🏻😎🤘🏻
+# KEVIN LANDRY (DadOpsMateoMaddox)
 
-## Coast Guard Service & Achievements
+**🦅 Kinetic Ops → Cyber Warfare | Systems Engineering🫠 | Threat Intelligence🥷🏻**
 
-Before diving into cybersecurity, I served nearly a decade in the U.S. Coast Guard as an Operations Specialist (OS) (But enlisted as a Telecommunications Specialist). During that time I had the honor of serving my country in the following roles/ billets:
-- **District 17 Communications Center**: Communications watch officer and watch supervisor. Participated in **Unified Defense Exercise 04** (the first post-9/11 interagency terrorism exercise in Alaska), advanced quickly through the OS ranks,E-5 at 19, E-6 at 21 and ensured around-the-clock communications for search and rescue missions.
+--- 
+## ⚡ The SitRep
 
-- **USCGC Aquidneck (WPB-1309)**: Proudly volunteered to deploy to Iraq October 2002 as Operation Specialist in charge and AOPS of the relief crew for all 4 patrol boats in the AOR but Aquidneck was my main. Conducted Anti-Terrorism-Force-Protection of the A-Bot and K-Bot terminals against Vehicle Born Improvised Explosive Devices (a.k.a. suicide bombers) trying to un-alive themselves by blowing up both of the largest offshore oil terminals in the world. Rest in Peace [DC3 Nathan Brukentall](https://en.wikipedia.org/wiki/Nathan_Bruckenthal)
+I don’t do *theoretical*. I build.
 
-- **Became a Plankowner of the Department of Homeland Security** meaning I was among the first 80,000 or so to be placed in the Department of Homeland Security  
-- **USCGC DALLAS (WHEC-716)**: Served as communications petty officer and EKMS manager. Oversaw shipboard communications, training and key management. Coordinated port visits to more than 15 countries and supported humanitarian relief missions like **Operation Noble Delivery** to the Republic of Georgia.
+I am an **M.S. Cybersecurity student at George Mason University** (Applied IT: Cyber Track) with a background forged in **mission-critical kinetic operations**—keeping ships afloat in the **Bering Sea** and protecting **oil terminals in Iraq**. Today, I apply that same mindset to:
 
-- **Returned in One Piece**: Returned to the Command Center to finish out my tour before leaving for the polar opposite assignment and geographic area,
-  
-- **Sector San Juan (Deepwater operations)**: Base officer of the day and assistant patrol boat manager. Helped apprehend human traffickers during **Operation Monkey Wrench II**, coordinated law enforcement and firefighting training, and assisted FEMA and the Mississippi National Guard during Hurricane Katrina recovery efforts.
+- Cloud Systems Engineering  
+- Adversarial Deception  
+- Threat Hunting & Intelligence  
 
-Over my Coast Guard career I earned multiple commendations and awards, including the  **Achievement Medal with "O" Operational Designator**, **Meritorious Team Commendation** (with a gold star), **Meritorious Unit Commendation**, **Presidential Unit Citation**, **Commandant’s Letter of Commendation**, the **Coast Guard “E” Ribbon**,, **Hurricane Katrina Award** **Good Conduct medals**, **Sea Service** and **Special Operations** ribbons, **Rifle** and **Pistol Marksmanship** ribbons, the **Humanitarian Service Medal**, **Global War on Terrorism Expeditionary** and **Service Medals**, and a **Navy Meritorious Unit Commendation**.
+I build tools from scratch because I need to know **exactly how the gears turn**.  
+I don’t just run scripts-I write the software that **catches the people running the scripts**.
 
-and now: 🥷🏻 I am **M.S. Cybersecurity student at George Mason University's College of Engineering and Computing's Applied IT: Cybersecurity tract**. 
+**Current Status:**  
+Actively hunting for a role where I can **break things, fix things, and be impactful**.  
+I’ve built **9 custom honeypots and counting**.  
+Put me in the fight.
 
-I build open-source honeypots (HoneyBomb), tools, Python threat-intelligence tools,Cloud Systems Engineering, Adversarial Deception and Defense, Purple Teamish stuff- anything that's non-theoretical. I need to push about  10 other projects so come back and check in and see what else I built! I build these for the learnning obviously, but in the end, I build these for you. Yeah, YOU random person ono the internet. Use my scrips etc, welcome to the fight ... 😈
+---
 
-I’m passionate about my family, animals, USCC Cyber Challenge Teaching Assistant duties, Cloud Security, Systems Engineering, Threat hunting, Incident Response, Vulnerability Assessments, breaking stuff, AI Assited-Cybersecurity and how to harden against advererial AI attack methods, adversarial emulation, and modern cyber cloud defense. 
+## 🛠️ The Arsenal (Custom Projects)
 
-With over 20 years in INFOSEC, Physical Security, and COMSEC, I love exploring new tech, collaborating with others, and helping secure systems. I'm looking for a role where I can be impactful and given a chance to show what I can do. 
-No luck as of yet, but I'm only on my 9th Honeypot. Maybe after 30 enterprise - grade projects, a company  will give me a chance👀....Thanks for stopping by!
+Every project below is **custom-built from scratch**.  
+No copy-paste tutorials.  
+I build these to **understand the adversary**.
 
-## Cybersecurity Projects
+---
 
-### Honeypots & Threat Intelligence
+## 🍯 Deception Engineering & Threat Intelligence
 
-* **HONEYBOMBCERBERUS** – [Honeybombcerberus](https://github.com/DadOpsMateoMaddox/HONEYBOMBCERBERUS). Next-generation honeypot integrating AI GuardDog, SHODAN, VirusTotal and custom TTP analytics. Collects attacker actions, malware samples, and logs for analysis.
-* **Corie Death Pot** – [Corie Death Pot](https://github.com/DadOpsMateoMaddox/Corie_Death_Pot). CLT Cowrie honeypot template with tripwires, SHODAN monitoring, threat enrichment, and step-by-step deployment instructions.
-* **Honeypot** – [Honeypot](https://github.com/DadOpsMateoMaddox/honeypot). Lightweight honeypot that monitors network ports and logs suspicious activities. Configurable for research and educational use.
-* **CowrieGPT-Access** – [CowrieGPT-Access](https://github.com/DadOpsMateoMaddox/CowrieGPT-Access). Scripts to integrate ChatGPT responses into Cowrie honeypot and analyze attacker dialogues.
+### **HONEYBOMBCERBERUS**
 
-### Threat Analysis & Scanning
+**The Gist:**  
+Not just a honeypot—this is a **research lab disguised as a victim**.
 
-* **MultiThreatScanner** – [MultiThreatScanner](https://github.com/DadOpsMateoMaddox/MultiThreatScanner). Python tool to scan URLs, files, and IPs across multiple threat feeds (e.g., VirusTotal, AlienVault OTX). Generates unified threat reports and risk scores.
-* **Offline CVSS Calculators** – [2025 Offline CVSS Calculator](https://github.com/DadOpsMateoMaddox/2025-Offline-CVSS-Calculator-Optional-OpenAI-Integration) and [Offline-NIST-CVSS-Calculator](https://github.com/DadOpsMateoMaddox/Offline-NIST-CVSS-Calculator). Tools for computing CVSS v3.x scores offline, with optional OpenAI integration for narrative recommendations.
-* **Security Notebook** – [Security Notebook](https://github.com/DadOpsMateoMaddox/Security-Notebook) and [Security-](https://github.com/DadOpsMateoMaddox/Security-). Jupyter notebooks covering common penetration testing tasks, network forensics, and malware analysis.
+**The Tech:**  
+- AI GuardDog  
+- Shodan API  
+- VirusTotal API  
+- Custom TTP analytics pipeline  
 
-### Data Structures, Algorithms & Coursework
+**Why it Matters:**  
+This platform doesn’t just log attempts—it **enriches attacker data in real time**.  
+It captures malware samples, records keystrokes, and builds attacker profiles that generate **actionable intelligence**, not noise.
 
-* **RedBlack** – [RedBlack](https://github.com/DadOpsMateoMaddox/RedBlack). Implementation of a Red-Black tree with insertion, deletion and traversal algorithms in Java.
-* **BloomFilter** – [BloomFilter](https://github.com/DadOpsMateoMaddox/BloomFilter). Example of a Bloom filter data structure in Python, including unit tests and performance evaluation.
-* **Assignments & Labs** – [assignment4](https://github.com/DadOpsMateoMaddox/assignment4), [CPSC318-Lab6](https://github.com/DadOpsMateoMaddox/CPSC318-Lab6), [AIT512](https://github.com/DadOpsMateoMaddox/AIT512), and other coursework repositories demonstrate my experience in algorithms, data structures and systems programming.
+---
 
-## Get In Touch
+### **Corie Death Pot**
 
-- **LinkedIn**: [linkedin.com/in/kevinlandry](https://www.linkedin.com/in/kevinlandrycyber)
-- **Blog**: [My Dev Blog](https://www.automateyourlife.blog)
-- **GitHub Stats**: [Profile Stats](https://github.com/anuraghazra/github-readme-stats) (don't laugh, I'm cyber not software, although it feels reversed at the moment).
+**The Gist:**  
+A highly aggressive **Cowrie deployment template**.
+
+**The Tech:**  
+- Custom tripwires  
+- Shodan monitoring hooks  
+
+**Why it Matters:**  
+Standard honeypots get fingerprinted fast.  
+This one is engineered to **hold attackers longer**, extracting deeper behavioral data before they realize they’re inside a cage.
+
+Includes **full deployment documentation** because I believe in **open-source defense**.
+
+---
+
+### **CowrieGPT-Access**
+
+**The Gist:**  
+Psychological warfare—for bots.
+
+**The Tech:**  
+- Python middleware bridging Cowrie logs with ChatGPT  
+
+**Why it Matters:**  
+Static responses are predictable.  
+This enables **dynamic interpretation of attacker behavior**, using LLMs to analyze **intent behind shell commands**, not just syntax.
+
+---
+
+## 🔍 Threat Analysis & Vulnerability Management
+
+### **MultiThreatScanner**
+
+**The Gist:**  
+Why juggle five threat feeds when one tool can do it?
+
+**The Tech:**  
+- Python-based aggregation engine  
+- VirusTotal  
+- AlienVault OTX  
+- Additional threat intel sources  
+
+**Why it Matters:**  
+Speed kills- or saves —in Incident Response.  
+This tool produces a **unified risk score and report instantly**, without tab-hopping.
+
+---
+
+### **Offline CVSS Calculators (2025 Edition)**
+
+**The Gist:**  
+Vulnerability scoring in **air-gapped or secure environments**.
+
+**The Tech:**  
+- Standalone CVSS v3.x computation logic  
+- Optional OpenAI hook for narrative recommendations  
+
+**Why it Matters:**  
+The core tool works when **the internet is dark**.  
+The AI component is optional—not required.  
+Designed for **secure facility audits and restricted networks**.
+
+---
+
+## 🧬 Algorithms & Core Engineering
+
+### **Red-Black Trees & Bloom Filters**
+
+**The Gist:**  
+Prove you know the fundamentals.
+
+**The Tech:**  
+- Raw Java implementations  
+- Raw Python implementations  
+
+**Why it Matters:**  
+Understanding **memory efficiency, probabilistic structures, and search complexity** makes me a better security engineer—not just a tool user.
+
+---
+
+## ⚓ The Origin Story (Kinetic Operations)
+
+Before I hunted threats in the cloud, I hunted them **in the real world**.  
+I served nearly **a decade in the U.S. Coast Guard**.
+
+---
+
+## 🧊 District 17 -The Frozen North (Alaska)
+
+**Role:**  
+Comms Watch Officer / SAR Controller
+
+**The Mission:**  
+Search & Rescue in *Deadliest Catch* waters.  
+Coordinated comms for vessels in distress and hikers facing **Kodiak Grizzly attacks** (not a joke).
+
+**The Grind:**  
+- Satellite tactical communications  
+- Encrypted VHF / UHF / HF  
+- Mission-critical comms integrity  
+
+If comms failed, people didn’t get found.  
+I made sure they didn’t fail.
+
+**Flex:**  
+- Advanced to **E-5 at 19**  
+- Advanced to **E-6 at 21**
+
+---
+
+## 🏜️ USCGC *Aquidneck* -The Sandbox (Iraq Deployment)
+
+**Role:**  
+Operations Specialist in Charge (AOPS)
+
+**The Mission:**  
+Volunteered for deployment to the **Northern Arabian Gulf** (Oct 2002).
+
+**The Stakes:**  
+Anti-Terrorism / Force Protection (ATFP) for:  
+- ABOT  
+- KAAOT  
+
+Stopping **VBIEDs (suicide boats)** from destroying the world’s largest offshore oil platforms.
+
+*Rest in Peace, DC3 Nathan Bruckenthal.*
+
+---
+
+## 🌪️ Sector San Juan & Katrina -The Storms
+
+**Role:**  
+Base OOD / Assistant Patrol Boat Manager
+
+**The Mission:**  
+- Deepwater operations  
+- Disaster response  
+
+**The Grind:**  
+- Apprehended human traffickers (Operation Monkey Wrench II)  
+- Deployed to Mississippi supporting FEMA and National Guard during **Hurricane Katrina recovery**
+
+---
+
+## 🎖️ The Hardware
+
+- Achievement Medal (with “O” Device)  
+- Presidential Unit Citation  
+- Meritorious Team Commendation (Gold Star)  
+- Global War on Terrorism Expeditionary Medal  
+- **Plankowner:** Department of Homeland Security (original crew, first 80k)
+
+---
+
+## 🖥️ Tech Stack & Tools
+
+*(Intentionally evolving -tools follow mission requirements)*
+
+---
+
+## 📡 Transmission Ends
+
+I build these tools **for the community**.  
+Use my scripts. Fork my repos. Improve them.
+
+If you’re hiring and want someone who has handled pressure from the **Bering Sea to the Persian Gulf**—and can write the Python to secure your cloud infrastructure—**reach out**.
+
+> Show me the stats.  
+> I’m Cyber, not Dev… but I try.
