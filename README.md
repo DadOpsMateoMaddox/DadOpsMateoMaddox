@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Landry 👋😇
+# Hi, I'm Kevin Landry 🤘🏻😎🤘🏻
 
 ## Coast Guard Service & Achievements
 
@@ -16,9 +16,14 @@ Before diving into cybersecurity, I served nearly a decade in the U.S. Coast Gua
 
 Over my Coast Guard career I earned multiple commendations and awards, including the  **Achievement Medal with "O" Operational Designator**, **Meritorious Team Commendation** (with a gold star), **Meritorious Unit Commendation**, **Presidential Unit Citation**, **Commandant’s Letter of Commendation**, the **Coast Guard “E” Ribbon**,, **Hurricane Katrina Award** **Good Conduct medals**, **Sea Service** and **Special Operations** ribbons, **Rifle** and **Pistol Marksmanship** ribbons, the **Humanitarian Service Medal**, **Global War on Terrorism Expeditionary** and **Service Medals**, and a **Navy Meritorious Unit Commendation**.
 
-and now: 😈 I am M.S. Cybersecurity student at George Mason University's College of Engineering and Computing's Applied IT: Cybersecurity tract. I build open-source honeypots (HoneyBomb), tools, Python threat-intelligence tools, and other stuff that interests me but haven't pushed to any of my repo's yet just because of time. But expect a big push SOON though!😁 
+and now: 🥷🏻 I am **M.S. Cybersecurity student at George Mason University's College of Engineering and Computing's Applied IT: Cybersecurity tract**. 
 
-I’m passionate about my family, animals, threat hunting, incident response, vulnerability assessments, breaking stuff, AI Asssited-Cybersecurity and how to harden against advererial AI attack methods, adversarial emulation, and modern cyber cloud defense. With over 20 years in INFOSEC, Physical Security, and COMSEC, I love exploring new tech, collaborating with others, and helping secure systems.....(and I also game👀) Thanks for stopping by!
+I build open-source honeypots (HoneyBomb), tools, Python threat-intelligence tools,Cloud Systems Engineering, Adversarial Deception and Defense, Purple Teamish stuff- anything that's non-theoretical. I need to push about  10 other projects so come back and check in and see what else I built! I build these for the learnning obviously, but in the end, I build these for you. Yeah, YOU random person ono the internet. Use my scrips etc, welcome to the fight ... 😈
+
+I’m passionate about my family, animals, USCC Cyber Challenge Teaching Assistant duties, Cloud Security, Systems Engineering, Threat hunting, Incident Response, Vulnerability Assessments, breaking stuff, AI Assited-Cybersecurity and how to harden against advererial AI attack methods, adversarial emulation, and modern cyber cloud defense. 
+
+With over 20 years in INFOSEC, Physical Security, and COMSEC, I love exploring new tech, collaborating with others, and helping secure systems. I'm looking for a role where I can be impactful and given a chance to show what I can do. 
+No luck as of yet, but I'm only on my 9th Honeypot. Maybe after 30 enterprise - grade projects, a company  will give me a chance👀....Thanks for stopping by!
 
 ## Cybersecurity Projects
 
