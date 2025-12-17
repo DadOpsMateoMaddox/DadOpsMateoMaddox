@@ -2,7 +2,7 @@
 
 ## Coast Guard Service & Achievements
 
-Before diving into cybersecurity, I served nearly a decade in the U.S. Coast Guard as an Operations Specialist (OS) (But enlisted as a Telecommunications Specialist). During that time I:
+Before diving into cybersecurity, I served nearly a decade in the U.S. Coast Guard as an Operations Specialist (OS) (But enlisted as a Telecommunications Specialist). During that time I had the honor of serving my country in the following roles/ billets:
 - **District 17 Communications Center**: Communications watch officer and watch supervisor. Participated in **Unified Defense Exercise 04** (the first post-9/11 interagency terrorism exercise in Alaska), advanced quickly through the OS ranks,E-5 at 19, E-6 at 21 and ensured around-the-clock communications for search and rescue missions.
 
 - **USCGC Aquidneck (WPB-1309)**: Proudly volunteered to deploy to Iraq October 2002 as Operation Specialist in charge and AOPS of the relief crew for all 4 patrol boats in the AOR but Aquidneck was my main. Conducted Anti-Terrorism-Force-Protection of the A-Bot and K-Bot terminals against Vehicle Born Improvised Explosive Devices (a.k.a. suicide bombers) trying to un-alive themselves by blowing up both of the largest offshore oil terminals in the world. Rest in Peace [DC3 Nathan Brukentall](https://en.wikipedia.org/wiki/Nathan_Bruckenthal)
