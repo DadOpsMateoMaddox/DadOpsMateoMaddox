@@ -7,7 +7,7 @@
 
 I don’t do *theoretical*. I build.
 
-I am an **M.S. Cybersecurity student at George Mason University** (Applied IT: Cyber Track) with a background forged in **mission-critical kinetic operations**—keeping ships afloat in the **Bering Sea** and protecting **oil terminals in Iraq**. Today, I apply that same mindset to:
+I am an **M.S. Cybersecurity student at George Mason University** Digital Forensics Reverse Malware Engineering/Pentesting route) with a background forged in **mission-critical kinetic operations**—keeping ships afloat in the **Bering Sea** and protecting **oil terminals in Iraq**. Today, I apply that same mindset to:
 
 - Cloud Systems Engineering  
 - Adversarial Deception  
