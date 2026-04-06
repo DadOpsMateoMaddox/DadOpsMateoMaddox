@@ -20,6 +20,6 @@ U.S. Coast Guard veteran. M.S. Digital Forensics (GMU, 2026).
 
 ## Links
 
-- Site: https://sudo-netsec.net
+- Site: https://sudo-infosec.net
 - GitHub: https://github.com/DadOpsMateoMaddox
 - LinkedIn: https://linkedin.com/in/kevin-landry
