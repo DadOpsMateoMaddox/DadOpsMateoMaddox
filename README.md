@@ -2,7 +2,7 @@
 
 Cybersecurity practitioner and systems-oriented generative AI engineer focused on adversary simulation, digital forensics, detection engineering, and AI-assisted security workflows.
 
-I build tooling that converts noisy telemetry, ambiguous findings, and attacker behavior into structured outputs analysts can actually use: JSON case files, scoring records, remediation summaries, detection logic, and repeatable evaluation artifacts.
+I build tooling that converts noisy telemetry, ambiguous findings, and attacker behavior into structured outputs analysts can actually use: JSON case files, scoring records, remediation summaries, detection notes, and decision-ready artifacts for security operations.
 
 **Production-minded**: _prototype, instrument, measure, ship._
 
@@ -24,6 +24,15 @@ Reverse Malware Engineering / Penetration Testing track.
 - Cloud security, especially AWS
 - Malware analysis and reverse engineering
 - LLM evaluation, structured outputs, and AI-assisted security workflows
+
+## AI Evaluation & Annotation Work
+
+- Designed and applied rubric-based evaluation frameworks across LLM reasoning, coding, rewrite, and instruction-following tasks
+- Performed comparative response ranking, preference scoring, and rewrite validation for RLHF-aligned evaluation workflows
+- Conducted inter-rater calibration and edge-case adjudication to improve reviewer consistency and reduce annotation drift
+- Built schema-constrained evaluation pipelines using JSON validation, deterministic output rules, and structured scoring criteria
+- Analyzed recurring LLM failure modes including hallucinations, prompt leakage, malformed outputs, repetition loops, and instruction drift
+- Authored golden examples and reusable evaluation templates for scalable human-in-the-loop review systems
 
 ## Links
 
