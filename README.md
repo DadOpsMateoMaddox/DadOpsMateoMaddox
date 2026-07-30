@@ -1,4 +1,4 @@
-# Kevin Landry
+# Redteam Aegis Against the Machine
 
 Cybersecurity practitioner and systems-oriented generative AI engineer focused on adversary simulation, digital forensics, detection engineering, and AI-assisted security workflows.
 
@@ -37,5 +37,5 @@ Reverse Malware Engineering / Penetration Testing track.
 ## Links
 
 - Site: https://sudo-infosec.net
-- GitHub: https://github.com/DadOpsMateoMaddox
+- GitHub: https://github.com/RedteamAegisAgainsttheMachine
 - LinkedIn: https://linkedin.com/in/kevin-landry
