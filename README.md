@@ -2,7 +2,7 @@
 
 Cybersecurity practitioner and systems-oriented generative AI engineer focused on adversary simulation, digital forensics, detection engineering, and AI-assisted security workflows.
 
-I build tooling that converts noisy telemetry, ambiguous findings, and attacker behavior into structured outputs analysts can actually use: JSON case files, scoring records, remediation summaries, detection notes, and decision-ready artifacts for security operations.
+I build tooling that converts noisy telemetry, ambiguous findings, and attacker behavior into structured outputs analysts can actually use: JSON case files, scoring records, remediation summaries, detection rules, and decision-ready artifacts for security operations.
 
 **Production-minded**: _prototype, instrument, measure, ship._
 
@@ -11,6 +11,9 @@ Reverse Malware Engineering / Penetration Testing track.
 
 ## Current and Past Projects
 
+- **SwarmKillChain** — framework and methodology for detecting, tracking, and disrupting malicious agentic swarms using active defensive measures
+- **Redteam-Aegis-Against-the-Machine** — red team defensive AI framework and adversary simulation toolkit
+- **three-models-in-a-trenchcoat** — multi-model composition and orchestration patterns for coordinated LLM workflows
 - **Clawdian Shield** — current project; prompt-orchestration and output-validation framework for defensive AI workflows
 - **CerberusMesh** — distributed Cowrie honeypot with AI-assisted session analysis and MITRE ATT&CK enrichment
 - **PatriotPot** — AWS SSH honeypot for observing real-world attacker behavior, adopted into GMU DFOR curriculum
@@ -19,6 +22,9 @@ Reverse Malware Engineering / Penetration Testing track.
 
 ## Focus Areas
 
+- **AI Safety** — researching and implementing safety measures for AI systems
+- **AI Red Teaming** — identifying and exploiting vulnerabilities in AI systems before adversaries do
+- **Agentic Swarm Detection & Disruption** — detecting and disrupting coordinated multi-agent systems using active measures
 - Deception engineering and honeypot infrastructure
 - Detection engineering and telemetry analysis
 - Cloud security, especially AWS
