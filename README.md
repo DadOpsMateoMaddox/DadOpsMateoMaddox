@@ -1,6 +1,6 @@
 # Kevin Landry
 
-Cybersecurity practitioner and systems-oriented generative AI engineer focused on adversary simulation, digital forensics, detection engineering, and AI-assisted security workflows.
+Cybersecurity practitioner and systems-oriented generative AI engineer focused on adversary simulation, digital forensics, detection engineering, AI Red Teaming, and AI-assisted security workflows.
 
 I build tooling that converts noisy telemetry, ambiguous findings, and attacker behavior into structured outputs analysts can actually use: JSON case files, scoring records, remediation summaries, [...]
 
